@@ -1,4 +1,4 @@
-var nome = 'André'
+var nome = 'João'
 var idade = 28;
 var possuiFaculdade= true;
 
